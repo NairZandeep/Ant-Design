@@ -1,0 +1,50 @@
+[nz-form] {
+    max-width: 600px;
+  }
+
+  .phone-select {
+    width: 70px;
+  }
+
+  .register-are {
+    margin-bottom: 8px;
+  }
+
+  [nz-form] {
+     max-width: 600px;
+ }
+    
+.phone-select {
+  width: 70px;
+}
+    
+.register-are {
+     margin-bottom: 8px;
+     }
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+form{
+    max-width: 300px;
+    width: 100%;
+}
+.container{
+    border: solid 4px black;
+    width:1000px;
+    position: absolute;
+    border-radius: 4rem;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-image: url('/assets/images/8.png');
+    background-size: cover;
+  
+    
+    font: 300px;
+    font-display: bold;
+}
+
